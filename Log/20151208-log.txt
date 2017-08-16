@@ -1,0 +1,28 @@
+----------------Error Information Start----------------
+date time : 2015-12-08 14:51:49
+err no: 8
+err str: Undefined variable: customerName
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment\User\Register.php
+err line: 56
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-12-08 14:52:12
+err no: 8
+err str: Undefined variable: customerName
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment\User\Register.php
+err line: 56
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-12-08 15:00:54
+err no: 8
+err str: Undefined variable: sqln
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment\User\Register.php
+err line: 57
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-12-08 15:00:54
+err no: 2
+err str: mysql_fetch_array() expects parameter 1 to be resource, boolean given
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment\inc\Database.inc.php
+err line: 57
+----------------Error Infromation End----------------

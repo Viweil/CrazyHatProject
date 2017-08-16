@@ -1,0 +1,1190 @@
+----------------Error Information Start----------------
+date time : 2015-11-15 10:00:18
+err no: 8
+err str: Undefined variable: sid
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\Admin\AddHat.php
+err line: 137
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 10:00:40
+err no: 8
+err str: Undefined variable: sid
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\Admin\AddHat.php
+err line: 137
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 10:25:44
+err no: 8
+err str: Undefined variable: sid
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\Admin\AddHat.php
+err line: 137
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:46
+err no: 8
+err str: Undefined index: hat_id
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 33
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:46
+err no: 8
+err str: Undefined index: hat_title
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 33
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:46
+err no: 8
+err str: Undefined index: hat_path
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 34
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:46
+err no: 8
+err str: Undefined index: hat_id
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 36
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:46
+err no: 8
+err str: Undefined index: hat_title
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 36
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:46
+err no: 8
+err str: Undefined index: hat_title
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 36
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:46
+err no: 8
+err str: Undefined index: hat_price
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 38
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:46
+err no: 8
+err str: Undefined index: hat_id
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 33
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:46
+err no: 8
+err str: Undefined index: hat_title
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 33
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:46
+err no: 8
+err str: Undefined index: hat_path
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 34
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:46
+err no: 8
+err str: Undefined index: hat_id
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 36
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:46
+err no: 8
+err str: Undefined index: hat_title
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 36
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:46
+err no: 8
+err str: Undefined index: hat_title
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 36
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:46
+err no: 8
+err str: Undefined index: hat_price
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 38
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:46
+err no: 8
+err str: Undefined index: hat_id
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 33
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:46
+err no: 8
+err str: Undefined index: hat_title
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 33
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:46
+err no: 8
+err str: Undefined index: hat_path
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 34
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:46
+err no: 8
+err str: Undefined index: hat_id
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 36
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:46
+err no: 8
+err str: Undefined index: hat_title
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 36
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:46
+err no: 8
+err str: Undefined index: hat_title
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 36
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:46
+err no: 8
+err str: Undefined index: hat_price
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 38
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:46
+err no: 8
+err str: Undefined index: hat_id
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 33
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:46
+err no: 8
+err str: Undefined index: hat_title
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 33
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:46
+err no: 8
+err str: Undefined index: hat_path
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 34
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:46
+err no: 8
+err str: Undefined index: hat_id
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 36
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:46
+err no: 8
+err str: Undefined index: hat_title
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 36
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:46
+err no: 8
+err str: Undefined index: hat_title
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 36
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:46
+err no: 8
+err str: Undefined index: hat_price
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 38
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:46
+err no: 8
+err str: Undefined index: hat_id
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 33
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:46
+err no: 8
+err str: Undefined index: hat_title
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 33
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:46
+err no: 8
+err str: Undefined index: hat_path
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 34
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:46
+err no: 8
+err str: Undefined index: hat_id
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 36
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:46
+err no: 8
+err str: Undefined index: hat_title
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 36
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:46
+err no: 8
+err str: Undefined index: hat_title
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 36
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:46
+err no: 8
+err str: Undefined index: hat_price
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 38
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:46
+err no: 8
+err str: Undefined index: hat_id
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 33
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:46
+err no: 8
+err str: Undefined index: hat_title
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 33
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:46
+err no: 8
+err str: Undefined index: hat_path
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 34
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:46
+err no: 8
+err str: Undefined index: hat_id
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 36
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:46
+err no: 8
+err str: Undefined index: hat_title
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 36
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:46
+err no: 8
+err str: Undefined index: hat_title
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 36
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:46
+err no: 8
+err str: Undefined index: hat_price
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 38
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:46
+err no: 8
+err str: Undefined index: hat_id
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 33
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:46
+err no: 8
+err str: Undefined index: hat_title
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 33
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:46
+err no: 8
+err str: Undefined index: hat_path
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 34
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:46
+err no: 8
+err str: Undefined index: hat_id
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 36
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:46
+err no: 8
+err str: Undefined index: hat_title
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 36
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:46
+err no: 8
+err str: Undefined index: hat_title
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 36
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:46
+err no: 8
+err str: Undefined index: hat_price
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 38
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:46
+err no: 8
+err str: Undefined index: hat_id
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 33
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:46
+err no: 8
+err str: Undefined index: hat_title
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 33
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:46
+err no: 8
+err str: Undefined index: hat_path
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 34
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:46
+err no: 8
+err str: Undefined index: hat_id
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 36
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:46
+err no: 8
+err str: Undefined index: hat_title
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 36
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:46
+err no: 8
+err str: Undefined index: hat_title
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 36
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:46
+err no: 8
+err str: Undefined index: hat_price
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 38
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:46
+err no: 8
+err str: Undefined index: hat_id
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 33
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:46
+err no: 8
+err str: Undefined index: hat_title
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 33
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:46
+err no: 8
+err str: Undefined index: hat_path
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 34
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:46
+err no: 8
+err str: Undefined index: hat_id
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 36
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:46
+err no: 8
+err str: Undefined index: hat_title
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 36
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:46
+err no: 8
+err str: Undefined index: hat_title
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 36
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:46
+err no: 8
+err str: Undefined index: hat_price
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 38
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:46
+err no: 8
+err str: Undefined index: hat_id
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 33
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:46
+err no: 8
+err str: Undefined index: hat_title
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 33
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:46
+err no: 8
+err str: Undefined index: hat_path
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 34
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:46
+err no: 8
+err str: Undefined index: hat_id
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 36
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:46
+err no: 8
+err str: Undefined index: hat_title
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 36
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:46
+err no: 8
+err str: Undefined index: hat_title
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 36
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:46
+err no: 8
+err str: Undefined index: hat_price
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 38
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:51
+err no: 8
+err str: Undefined index: hat_id
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 33
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:51
+err no: 8
+err str: Undefined index: hat_title
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 33
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:51
+err no: 8
+err str: Undefined index: hat_path
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 34
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:51
+err no: 8
+err str: Undefined index: hat_id
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 36
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:51
+err no: 8
+err str: Undefined index: hat_title
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 36
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:51
+err no: 8
+err str: Undefined index: hat_title
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 36
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:51
+err no: 8
+err str: Undefined index: hat_price
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 38
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:51
+err no: 8
+err str: Undefined index: hat_id
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 33
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:51
+err no: 8
+err str: Undefined index: hat_title
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 33
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:51
+err no: 8
+err str: Undefined index: hat_path
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 34
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:51
+err no: 8
+err str: Undefined index: hat_id
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 36
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:51
+err no: 8
+err str: Undefined index: hat_title
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 36
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:51
+err no: 8
+err str: Undefined index: hat_title
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 36
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:51
+err no: 8
+err str: Undefined index: hat_price
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 38
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:51
+err no: 8
+err str: Undefined index: hat_id
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 33
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:51
+err no: 8
+err str: Undefined index: hat_title
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 33
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:51
+err no: 8
+err str: Undefined index: hat_path
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 34
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:51
+err no: 8
+err str: Undefined index: hat_id
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 36
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:51
+err no: 8
+err str: Undefined index: hat_title
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 36
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:51
+err no: 8
+err str: Undefined index: hat_title
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 36
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:51
+err no: 8
+err str: Undefined index: hat_price
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 38
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:51
+err no: 8
+err str: Undefined index: hat_id
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 33
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:51
+err no: 8
+err str: Undefined index: hat_title
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 33
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:51
+err no: 8
+err str: Undefined index: hat_path
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 34
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:51
+err no: 8
+err str: Undefined index: hat_id
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 36
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:51
+err no: 8
+err str: Undefined index: hat_title
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 36
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:51
+err no: 8
+err str: Undefined index: hat_title
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 36
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:51
+err no: 8
+err str: Undefined index: hat_price
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 38
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:51
+err no: 8
+err str: Undefined index: hat_id
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 33
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:51
+err no: 8
+err str: Undefined index: hat_title
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 33
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:51
+err no: 8
+err str: Undefined index: hat_path
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 34
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:51
+err no: 8
+err str: Undefined index: hat_id
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 36
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:51
+err no: 8
+err str: Undefined index: hat_title
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 36
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:51
+err no: 8
+err str: Undefined index: hat_title
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 36
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:51
+err no: 8
+err str: Undefined index: hat_price
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 38
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:51
+err no: 8
+err str: Undefined index: hat_id
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 33
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:51
+err no: 8
+err str: Undefined index: hat_title
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 33
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:51
+err no: 8
+err str: Undefined index: hat_path
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 34
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:51
+err no: 8
+err str: Undefined index: hat_id
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 36
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:51
+err no: 8
+err str: Undefined index: hat_title
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 36
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:51
+err no: 8
+err str: Undefined index: hat_title
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 36
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:51
+err no: 8
+err str: Undefined index: hat_price
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 38
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:51
+err no: 8
+err str: Undefined index: hat_id
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 33
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:51
+err no: 8
+err str: Undefined index: hat_title
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 33
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:51
+err no: 8
+err str: Undefined index: hat_path
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 34
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:51
+err no: 8
+err str: Undefined index: hat_id
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 36
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:51
+err no: 8
+err str: Undefined index: hat_title
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 36
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:51
+err no: 8
+err str: Undefined index: hat_title
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 36
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:51
+err no: 8
+err str: Undefined index: hat_price
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 38
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:51
+err no: 8
+err str: Undefined index: hat_id
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 33
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:51
+err no: 8
+err str: Undefined index: hat_title
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 33
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:51
+err no: 8
+err str: Undefined index: hat_path
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 34
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:51
+err no: 8
+err str: Undefined index: hat_id
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 36
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:51
+err no: 8
+err str: Undefined index: hat_title
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 36
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:51
+err no: 8
+err str: Undefined index: hat_title
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 36
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:51
+err no: 8
+err str: Undefined index: hat_price
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 38
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:51
+err no: 8
+err str: Undefined index: hat_id
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 33
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:51
+err no: 8
+err str: Undefined index: hat_title
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 33
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:51
+err no: 8
+err str: Undefined index: hat_path
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 34
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:51
+err no: 8
+err str: Undefined index: hat_id
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 36
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:51
+err no: 8
+err str: Undefined index: hat_title
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 36
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:51
+err no: 8
+err str: Undefined index: hat_title
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 36
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:51
+err no: 8
+err str: Undefined index: hat_price
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 38
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:51
+err no: 8
+err str: Undefined index: hat_id
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 33
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:51
+err no: 8
+err str: Undefined index: hat_title
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 33
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:51
+err no: 8
+err str: Undefined index: hat_path
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 34
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:51
+err no: 8
+err str: Undefined index: hat_id
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 36
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:51
+err no: 8
+err str: Undefined index: hat_title
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 36
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:51
+err no: 8
+err str: Undefined index: hat_title
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 36
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 11:41:51
+err no: 8
+err str: Undefined index: hat_price
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\DisplayHat.php
+err line: 38
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 14:21:57
+err no: 8
+err str: Use of undefined constant window - assumed 'window'
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\MyOrder.php
+err line: 12
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 14:21:57
+err no: 8
+err str: Use of undefined constant location - assumed 'location'
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\MyOrder.php
+err line: 12
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 15:57:43
+err no: 8
+err str: Undefined index: fax
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\Register.php
+err line: 49
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 17:01:55
+err no: 8
+err str: Undefined index: fax
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\Register.php
+err line: 49
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 17:04:01
+err no: 8
+err str: Undefined index: fax
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\Register.php
+err line: 49
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 17:05:36
+err no: 8
+err str: Undefined index: fax
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\Register.php
+err line: 49
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 17:07:53
+err no: 8
+err str: Undefined index: fax
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\User\Register.php
+err line: 49
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 18:53:09
+err no: 2
+err str: mail(): SMTP server response: 503 5.5.2 Need Rcpt command.
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\inc\Tool.inc.php
+err line: 84
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 18:57:08
+err no: 2
+err str: mail(): SMTP server response: 503 5.5.2 Need Rcpt command.
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\inc\Tool.inc.php
+err line: 84
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 18:58:59
+err no: 2
+err str: mail(): SMTP server response: 503 5.5.2 Need Rcpt command.
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\inc\Tool.inc.php
+err line: 84
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 18:59:02
+err no: 2
+err str: mail(): SMTP server response: 503 5.5.2 Need Rcpt command.
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\inc\Tool.inc.php
+err line: 84
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 19:20:12
+err no: 8
+err str: Undefined variable: sid
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment2\Admin\AddHat.php
+err line: 137
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 21:16:53
+err no: 8
+err str: Undefined variable: sid
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment7\Admin\AddHat.php
+err line: 137
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 21:17:50
+err no: 8
+err str: Undefined variable: sid
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment7\Admin\AddHat.php
+err line: 137
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 21:20:55
+err no: 8
+err str: Undefined variable: sid
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment7\Admin\AddHat.php
+err line: 137
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 21:22:50
+err no: 8
+err str: Undefined variable: sid
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment7\Admin\AddHat.php
+err line: 137
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 21:27:12
+err no: 8
+err str: Undefined variable: sid
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment7\Admin\AddHat.php
+err line: 137
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 21:28:41
+err no: 8
+err str: Undefined variable: sid
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment7\Admin\AddHat.php
+err line: 137
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 21:39:12
+err no: 8
+err str: Undefined variable: sid
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment\Admin\AddHat.php
+err line: 137
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 21:40:07
+err no: 8
+err str: Undefined variable: sid
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment\Admin\AddHat.php
+err line: 137
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 21:41:24
+err no: 8
+err str: Undefined variable: sid
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment\Admin\AddHat.php
+err line: 137
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 21:47:28
+err no: 8
+err str: Undefined variable: sid
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment\Admin\AddHat.php
+err line: 137
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 21:48:32
+err no: 8
+err str: Undefined variable: sid
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment\Admin\AddHat.php
+err line: 137
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 21:53:19
+err no: 8
+err str: Undefined variable: sid
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment\Admin\AddHat.php
+err line: 137
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 23:06:09
+err no: 8
+err str: Undefined variable: sid
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment\Admin\AddHat.php
+err line: 137
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 23:32:30
+err no: 8
+err str: Undefined variable: sid
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment\Admin\AddHat.php
+err line: 137
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-15 23:33:33
+err no: 8
+err str: Undefined variable: sid
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment\Admin\AddHat.php
+err line: 137
+----------------Error Infromation End----------------

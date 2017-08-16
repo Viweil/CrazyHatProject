@@ -1,0 +1,14 @@
+----------------Error Information Start----------------
+date time : 2015-11-16 11:03:56
+err no: 8
+err str: Undefined variable: sid
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment\Admin\AddHat.php
+err line: 137
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-11-16 11:05:05
+err no: 8
+err str: Undefined variable: sid
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment\Admin\AddHat.php
+err line: 137
+----------------Error Infromation End----------------

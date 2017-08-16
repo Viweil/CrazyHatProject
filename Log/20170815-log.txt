@@ -1,0 +1,1267 @@
+----------------Error Information Start----------------
+date time : 2017-08-15 15:56:35
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 28
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 15:56:35
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 28
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 15:58:22
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 28
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 15:58:22
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 28
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 15:58:30
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 28
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 15:58:30
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 28
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 15:58:36
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 28
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 15:58:36
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 28
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 16:02:58
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 28
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 16:02:58
+err no: 2
+err str: mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 28
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 16:02:58
+err no: 2
+err str: mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 28
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 16:05:25
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 28
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 16:05:25
+err no: 2
+err str: mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 28
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 16:05:25
+err no: 2
+err str: mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 28
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 16:05:33
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 28
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 16:05:33
+err no: 2
+err str: mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 28
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 16:05:33
+err no: 2
+err str: mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 28
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 16:08:05
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 28
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 16:08:05
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 28
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 16:09:46
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 28
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 16:09:46
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 28
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 16:14:55
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 28
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 16:14:55
+err no: 2
+err str: mysql_connect(): Access denied for user 'root@localhost'@'localhost' (using password: YES)
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 28
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 16:21:25
+err no: 8
+err str: Undefined variable: Host
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 29
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 16:21:25
+err no: 8
+err str: Undefined variable: Database
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 16:21:25
+err no: 8
+err str: Undefined variable: UserName
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 31
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 16:21:25
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 33
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 16:21:25
+err no: 2
+err str: mysql_connect(): Access denied for user 'root@localhost'@'localhost' (using password: YES)
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 33
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 16:21:34
+err no: 8
+err str: Undefined variable: Host
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 29
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 16:21:34
+err no: 8
+err str: Undefined variable: Database
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 16:21:34
+err no: 8
+err str: Undefined variable: UserName
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 31
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 16:21:34
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 33
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 16:21:34
+err no: 2
+err str: mysql_connect(): Access denied for user 'root@localhost'@'localhost' (using password: YES)
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 33
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 16:21:48
+err no: 8
+err str: Undefined variable: Host
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 29
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 16:21:48
+err no: 8
+err str: Undefined variable: Database
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 16:21:48
+err no: 8
+err str: Undefined variable: UserName
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 31
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 16:21:48
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 33
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 16:21:48
+err no: 2
+err str: mysql_connect(): Access denied for user 'root@localhost'@'localhost' (using password: YES)
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 33
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 16:21:54
+err no: 8
+err str: Undefined variable: Host
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 29
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 16:21:54
+err no: 8
+err str: Undefined variable: Database
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 16:21:54
+err no: 8
+err str: Undefined variable: UserName
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 31
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 16:21:54
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 33
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 16:21:54
+err no: 2
+err str: mysql_connect(): Access denied for user 'root@localhost'@'localhost' (using password: YES)
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 33
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 16:23:16
+err no: 8
+err str: Undefined variable: Host
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 29
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 16:23:16
+err no: 8
+err str: Undefined variable: Database
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 16:23:16
+err no: 8
+err str: Undefined variable: UserName
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 31
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 16:23:16
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 33
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 16:23:16
+err no: 8
+err str: Undefined variable: Host
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 29
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 16:23:16
+err no: 8
+err str: Undefined variable: Database
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 16:23:16
+err no: 8
+err str: Undefined variable: UserName
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 31
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 16:23:16
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 33
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 16:24:57
+err no: 8
+err str: Undefined variable: UserName
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 31
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 16:24:57
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 33
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 16:24:57
+err no: 8
+err str: Undefined variable: UserName
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 31
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 16:24:57
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 33
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 16:25:27
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 33
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 16:25:27
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 33
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 16:44:58
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 33
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 16:44:58
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 33
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:34:16
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 34
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:34:16
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 34
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:36:08
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 34
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:36:08
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 34
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:40:32
+err no: 2
+err str: mysql_select_db() expects parameter 2 to be resource, object given
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 46
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:40:32
+err no: 8192
+err str: mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 47
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:40:32
+err no: 2
+err str: mysql_query(): Access denied for user ''@'localhost' (using password: NO)
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 47
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:40:32
+err no: 2
+err str: mysql_query(): A link to the server could not be established
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 47
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:40:32
+err no: 2
+err str: mysql_query() expects parameter 2 to be resource, object given
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 48
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:40:32
+err no: 2
+err str: mysql_query() expects parameter 2 to be resource, object given
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 49
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:40:32
+err no: 2
+err str: mysql_query() expects parameter 2 to be resource, object given
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 54
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:43:30
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 35
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:45:32
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 35
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:46:14
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 35
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:46:14
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 35
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:46:30
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 35
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:46:30
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 35
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:46:36
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 35
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:46:36
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 35
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:46:40
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 35
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:46:40
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 35
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:46:42
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:46:42
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:46:44
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:46:44
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:46:47
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:46:54
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:46:55
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:46:55
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:46:59
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:46:59
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:47:00
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:47:00
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:47:08
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:47:08
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:47:16
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:47:16
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:49:25
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:49:25
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:49:26
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:49:28
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:50:09
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:50:09
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:50:10
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:50:12
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:51:26
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:51:26
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:51:35
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:51:57
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:51:57
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:52:14
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:52:14
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:52:18
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:52:18
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:52:23
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:52:23
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:52:23
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:52:25
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:52:25
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:52:37
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:52:37
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:53:35
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:53:41
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:53:41
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:53:47
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:53:47
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:54:00
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:54:00
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:54:25
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:54:25
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:54:29
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:54:29
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:54:32
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:54:32
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:54:35
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:54:35
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:54:37
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:54:37
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:54:47
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:54:47
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:55:18
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:55:18
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:55:31
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:55:42
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:55:46
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:55:46
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:56:26
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:56:26
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:56:28
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:56:28
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:56:30
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:56:30
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:56:33
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:56:33
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:56:34
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:56:35
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:56:35
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:56:38
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:56:41
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:56:41
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:56:43
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:56:43
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:56:51
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:56:51
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:56:57
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:56:58
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:57:07
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:57:07
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:57:26
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:57:26
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:57:26
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:57:26
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:57:26
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:57:44
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:57:44
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:57:48
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:57:48
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 19:57:48
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 20:00:23
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 20:00:23
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 20:00:35
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2017-08-15 20:00:35
+err no: 8192
+err str: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+err file: /var/www/html/CrazyHatProject/inc/Database.inc.php
+err line: 30
+----------------Error Infromation End----------------

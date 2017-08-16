@@ -1,0 +1,21 @@
+----------------Error Information Start----------------
+date time : 2015-12-01 14:29:00
+err no: 2
+err str: mail(): SMTP server response: 503 5.5.2 Need Rcpt command.
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment\inc\Tool.inc.php
+err line: 84
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-12-01 14:29:38
+err no: 2
+err str: mail(): SMTP server response: 503 5.5.2 Need Rcpt command.
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment\inc\Tool.inc.php
+err line: 84
+----------------Error Infromation End----------------
+----------------Error Information Start----------------
+date time : 2015-12-01 16:06:15
+err no: 2
+err str: mail(): SMTP server response: 503 5.5.2 Need Rcpt command.
+err file: C:\inetpub\wwwroot\LUANW02\php_assignment\inc\Tool.inc.php
+err line: 84
+----------------Error Infromation End----------------
